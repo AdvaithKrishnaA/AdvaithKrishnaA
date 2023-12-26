@@ -1,1 +1,1 @@
-{"short_name":"BTTR","name":"The Bttr [Weekly]","icons":[],"start_url":"index.html","background_color":"#000000","theme_color":"#000000","display":"standalone"}
+{"short_name":"BTTR","name":"The Bttr [Weekly]","icons":[{"src":"https://advaith.thebttr.net/assets/img/advaith.jpeg","type":"image/jpeg","sizes":"600x600","purpose":"any maskable"},{"src":"https://advaith.thebttr.net/assets/img/advaith.jpeg","type":"image/jpeg","sizes":"600x600","purpose":"any maskable"}],"start_url":"index.html","background_color":"#000000","theme_color":"#000000","display":"standalone"}
